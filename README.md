@@ -1,10 +1,10 @@
 <img src="http://www.huesoftllc.com/slider1.jpg" width=400>
 
 
-SimpleEarth
+QtSimpleEarth
 =========
 
-[SimpleEarth][1] is a simplistic multi-platform virtual globe. It works on Windows, Linux and OS X. SimpleEarth is Fast, Free and super Easy to use.
+[QtSimpleEarth][1] is a simplistic multi-platform virtual globe. It works on Windows, Linux and OS X. QtSimpleEarth is Fast, Free and super Easy to use.
 
 
 ### Build and run SimpleEarth ###
