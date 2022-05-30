@@ -114,7 +114,7 @@ int main(int argc, char* argv[])
 #endif
 
   //SatelliteImageDownloader downloads sattelite imagery
-#ifdef USING_PROJ4
+#ifndef USING_PROJ4
   //instantiate object and start image download thread
   SatelliteImageDownloader* satelliteImageDownloader = new SatelliteImageDownloader();
   satelliteImageDownloader->start();

@@ -32,10 +32,9 @@
  * @version 1.1
  * @author Hector Mendoza
  */
-class Constants
+namespace Constants
 //++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 {
-  public:
     static const double PI = 3.1415926535897932384626433832795;
     static const double DEGREES_TO_RADIANS = 0.01745329251994329576923690768489;
     static const double RADIANS_TO_DEGREES = 57.295779513082320876798154814105;
